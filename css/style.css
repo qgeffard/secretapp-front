@@ -25,16 +25,16 @@ section {
 	margin: 0;
 }
 #section-section1 {
-	background: #5Ffffe;
+	background: #DDD;
 }
 #section-section2 {
-	background: #16a085;
+	background: #eee;
 }
 #section-section3 {
-	background: #27ae60;
+	background: #fff;
 }
 #section-section4 {
-	background: #c0392b;
+	background: #aaa;
 }
 .horizon-prev, .horizon-next {
 	position: fixed;
